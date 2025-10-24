@@ -1,5 +1,7 @@
 # Exp_2_Simple-Spring-Boot-MVC-Application
 
+## NAME: SANJITH.R
+## REG NO: 212223230191
 ## AIM:
 To develop a Simple Spring Boot MVC (Model-View-Controller) Application that uses a Controller to handle HTTP requests, a Model to pass data, and a View (Thymeleaf) to render dynamic HTML pages.
 
