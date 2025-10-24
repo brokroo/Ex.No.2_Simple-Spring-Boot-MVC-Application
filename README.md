@@ -141,4 +141,9 @@ public class HomeController {
 ### application.properties:
  server.port=8081
 
+ ### Output:
+ <img width="1918" height="1038" alt="image" src="https://github.com/user-attachments/assets/30515758-4361-4d52-a975-731f378e673f" />
 
+
+### Result:
+Thus, the program for Spring Boot MVC (Model-View-Controller) Application is executed.
